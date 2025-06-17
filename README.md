@@ -47,7 +47,7 @@ npm install
 Lance le script en ligne de commande en spécifiant un dossier contenant tes fichiers .ts ou .js :
 
 ```bash
-node ai-commenter.js ./chemin/vers/ton/code
+node comment.js ./chemin/vers/ton/code
 ```
 
 Les fichiers commentés seront générés dans ./output.
@@ -56,7 +56,7 @@ Les fichiers commentés seront générés dans ./output.
 
 ```pgsql
 ai-commenter/
-├── ai-commenter.js
+├── comment.js
 └── output/
     ├── helpers.commented.ts
     └── index.commented.ts
