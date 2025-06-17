@@ -55,7 +55,7 @@ Les fichiers commentés seront générés dans ./output.
 ## 📁 Structure
 
 ```pgsql
-mon-projet/
+ai-commenter/
 ├── ai-commenter.js
 └── output/
     ├── helpers.commented.ts
